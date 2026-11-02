@@ -72,6 +72,13 @@ Navigate to the "Deleted Files" section in Autopsy and examine or recover the de
 
 ## OUTPUT:
 Recovered Deleted File List and Details
+<img width="1533" height="819" alt="WhatsApp Image 2026-11-02 at 12 51 32 PM" src="https://github.com/user-attachments/assets/b378fdca-9242-4fac-97ec-50f2655c958e" />
+<img width="1535" height="814" alt="WhatsApp Image 2026-11-02 at 12 51 58 PM" src="https://github.com/user-attachments/assets/b4b4c581-f103-4a94-863b-70886a14f9b0" />
+<img width="1535" height="815" alt="WhatsApp Image 2026-11-02 at 1 03 12 PM" src="https://github.com/user-attachments/assets/42ab3e3d-b41c-4e00-9f31-a40978fb37a2" />
+<img width="1535" height="823" alt="WhatsApp Image 2026-11-02 at 1 04 02 PM" src="https://github.com/user-attachments/assets/dc5a755f-b110-4d1d-b7b7-523b2a88a8bf" />
+<img width="1535" height="823" alt="WhatsApp Image 2026-11-02 at 1 04 02 PM" src="https://github.com/user-attachments/assets/91fd3330-74f9-4035-99b3-f5d696e76c82" />
+<img width="1535" height="821" alt="WhatsApp Image 2026-11-02 at 1 05 40 PM" src="https://github.com/user-attachments/assets/c6522ca8-1368-40ff-b25e-932ec6fa68b0" />
+<img width="1535" height="816" alt="WhatsApp Image 2026-11-02 at 1 13 04 PM" src="https://github.com/user-attachments/assets/c0f1d721-f765-441a-b833-e8e9e3d0ea44" />
 
 ## RESULT:
 Deleted files were successfully retrieved and analyzed using Autopsy.
